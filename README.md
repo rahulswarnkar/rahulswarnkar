@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+Social links:
+- https://rahulswarnkar.github.io
+- https://twitter.com/rahulswarnkar
+- https://www.linkedin.com/in/rahulswarnkar/
+
+
+
 <!--
 **rahulswarnkar/rahulswarnkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
